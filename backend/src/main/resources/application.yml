@@ -57,7 +57,7 @@ jwt:
 server:
   port: 8080
 
-# 自定义邮件配置
+#自定义邮件配置
 mail:
   verify-code:
     expire-minutes: 15
