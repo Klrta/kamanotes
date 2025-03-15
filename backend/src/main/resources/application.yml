@@ -67,6 +67,3 @@ mail:
 upload:
   path: upload/directory # 请替换为实际的上传路径
   url-prefix: http://localhost:8080/upload # 请替换为实际的URL前缀
-
-
-debug: true
